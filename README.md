@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/jorgerodriguezm/BlackFridayAnalytics/blob/main/Assets/ecommerceBanner.gif)
 
 # About this Repository
 
@@ -10,7 +10,7 @@ The purpose of this repository is to do the previous marketing analysis, related
 
 ### Model in this Repository:
 
-- [Black Friday Analytics]()
+- [Black Friday Analytics](https://github.com/jorgerodriguezm/BlackFridayAnalytics/blob/main/Notebook/black-friday-analytics-ecommerce.ipynb)
 
 ### Black Friday Analytics
 
