@@ -1,4 +1,4 @@
-![](https://github.com/jorgerodriguezm/BlackFridayAnalytics/blob/main/Assets/ecommerceBanner.gif)
+![](https://raw.githubusercontent.com/jorgerodriguezm/BlackFridayAnalytics/main/Assets/dataset-cover.jpeg)
 
 # About this Repository
 
